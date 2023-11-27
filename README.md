@@ -2,23 +2,22 @@
 
 <!-- Header -->
 # Hi there, I'm Aditya Raj! 👋
-
+### React Native Developer
 <!-- Introduction -->
-I'm a passionate coder with a love for problem-solving and creating innovative solutions. Constantly seeking new challenges, I enjoy turning ideas into elegant code and continuously improving my skills.
+Hi! I am Aditya Raj a React native developer. I love creating mobile apps with beautiful UI in react native expo for Android and iOS. I have come so far to create beautiful and working mobile apps in react native. you can see my projects here - "https://adityaraj-io.github.io". If you want to hire me or contact me, please feel free to message me directly.
 
 <!-- Skills -->
 ## Skills
 
 - Programming Languages: Python, Java, JavaScript
 - Web Development: React, Nodejs
-- Databases: MongoDB
+- Databases: MongoDB, Firebase
 - Version Control: Git
-- Other Skills: Android App Development
+- Other Skills: Android App Development and React Native 
 
 <!-- Projects -->
 ## Projects
-
-Projects Will be added soon!
+#### you can see my projects here - "https://adityaraj-io.github.io"
 <!-- Contributions -->
 
 <!-- Let's Connect -->
@@ -28,6 +27,8 @@ I'm always open to connecting with fellow developers, discussing interesting pro
 
 - Email: ar1364713@gmail.com
 - Instagram: [Aditya Raj](https://instagram.com/adityaraj_io?igshid=MzNINGNkZWQ4Mg==)
+- PeoplePerHour: [Aditya Raj](https://pph.me/adityaraj.io)
+- Fiverr: [Aditya Raj](https://www.fiverr.com/adityaxraj)
 
 Let's connect and make something amazing together!
 
